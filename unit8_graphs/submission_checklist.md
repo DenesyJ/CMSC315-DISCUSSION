@@ -44,4 +44,4 @@
 - [X] Explained when BFS is preferred over DFS
 - [X] Included reflection
 - [X] Posted initial discussion on time
-- [X] Responded to at least two classmates
+- [ ] Responded to at least two classmates
